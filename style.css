@@ -1,0 +1,72 @@
+body{
+    background-color:#1A1A1A;
+}
+h3{
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+    color:#EDEDED;
+    line-height:0px;
+    margin-left:10px;
+}
+#pause,#pauseOnGesture{
+    margin-left:30%;
+    margin-top:20px;
+}
+#title{
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-weight:100;
+    text-align:center;
+    font-size:50px;
+    color:#1F7A99;
+    margin-left:150px;
+    margin-right:150px;
+    padding:25px;
+    background-color:#D2D2D2;
+}
+#main{
+    background-color:#99CCFF;
+    padding-bottom:40%;
+    margin:10px;
+}
+#frameData{
+    
+    text-align:center;
+   padding:20px;
+    
+}
+#handData{
+    
+    text-align:center;
+padding:20px;
+}
+#pointableData{
+  text-align:center;
+padding:20px;
+    
+}
+#gestureData{
+     text-align:center;
+     padding:20px;
+    
+    
+}
+#frameDataText{
+     text-align:center;
+     
+    
+}
+#handDataText{
+     text-align:center;
+    
+}
+#pointableDataText{
+  text-align:center;
+    
+}
+#gestureDataText{
+   text-align:center;
+    
+}
+#previousGestureDataText{
+   text-align:center;
+    
+}
